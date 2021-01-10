@@ -3,5 +3,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I'm just a littol gremlin in these hard times...
 Use the left arrow to go back!
